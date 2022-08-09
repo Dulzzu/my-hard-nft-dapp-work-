@@ -20,7 +20,6 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "babel src -d lib",
-    "prebuild": "jest"
   },
   "browserslist": {
     "production": [
