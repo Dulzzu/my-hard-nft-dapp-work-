@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x17c552c4c89d23d5bd1008730936db7178ef7096",
+  "SCAN_LINK": "https://polygonscan.com/token/0x17c552c4c89d23d5bd1008730936db7178ef7096",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Meta Step World",
+  "SYMBOL": "MSW",
+  "MAX_SUPPLY": 1111,
+  "WEI_COST": 15000000000000000000,
+  "DISPLAY_COST": 15,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/MetaStepWorld",
+  "SHOW_BACKGROUND": true
+}
